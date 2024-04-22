@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rohit Umbare</h1>
-<h3 align="center">A passionate Java Full Stack Developer</h3>
+
+<h3 align="center">I had completed My Master's in Computer Science.<br> Passionate about exploring the intersection of technology<br> and intelligence to create innovative solutions.</h3>
 
 - 🔭 I’m currently working on **Myself**
 
 - 🌱 I’m currently learning **Java DSA & React**
 
-- 🤝 I’m looking for help with **Internship or Job**
+- 🎯 Goal to become a **Java Full Stack Developer**
 
 - 💬 Ask me about **Java, Spring, HTML, CSS**
 
