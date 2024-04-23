@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **umbarerohit00@gmail.com**
 
-- 👀 Take a look at <a href="https://my-portfolio-rohitumbares-projects.vercel.app/" target="_blank">My Portfolio</a></li>
+- 👀 Take a look at <a href="https://rohitumbare.github.io/My_Portfolio/" target="_blank">My Portfolio</a></li>
 
 - 📄 Here's <a href="https://olive-hynda-27.tiiny.site/" target="_blank">My Resume</a></li>
 
