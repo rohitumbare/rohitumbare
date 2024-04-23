@@ -9,7 +9,7 @@
 
 <h3 align="center">I had completed My Master's in Computer Science.<br> Passionate about exploring the intersection of technology<br> and intelligence to create innovative solutions.</h3>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 400px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 384px></picture>
 
 - 🔭 I’m currently working on **Myself**
 
