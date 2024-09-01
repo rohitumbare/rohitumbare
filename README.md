@@ -2,18 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Rohit Umbare</h1>
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <h3 align="center">I had completed My Master's in Computer Science.<br> Passionate about exploring the intersection of technology<br> and intelligence to create innovative solutions.</h3>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 384px></picture>
 
 - 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Java DSA & React**
+- 🌱 I’m currently learning **Java DSA**
 
 - 🎯 Goal to become a **Java Full Stack Developer**
 
@@ -24,13 +19,6 @@
 - 👀 Take a look at <a href="https://my-portfolio-eight-nu-98.vercel.app/" target="_blank">My Portfolio</a></li>
 
 - 📄 Here's <a href="https://olive-hynda-27.tiiny.site/" target="_blank">My Resume</a></li>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rohit-umbare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rohit-umbare" height="30" width="40" /></a>
-<a href="https://instagram.com/rohit._.umbare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohit._.umbare" height="30" width="40" /></a>
-<a href="http://www.youtube.com/@codeingwithrohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codeingwithrohit" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
