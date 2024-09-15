@@ -18,7 +18,7 @@
 
 - 👀 Take a look at <a href="https://rohit-umbare.onrender.com/" target="_blank">My Portfolio</a></li>
 
-- 📄 Here's <a href="https://rohit-umbare-resume.tiiny.site" target="_blank">My Resume</a></li>
+- 📄 Here's <a href="https://rohit-umbare-resume.tiiny.site/" target="_blank">My Resume</a></li>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
