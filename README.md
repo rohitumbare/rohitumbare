@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java DSA**
 
-- 🎯 Goal to become a **Java Full Stack Developer**
+- 🎯 Goal to become a **Full Stack Developer**
 
 - 💬 Ask me about **Java, Spring, MERN, HTML, CSS, JS**
 
