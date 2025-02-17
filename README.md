@@ -12,7 +12,7 @@
 
 - 🎯 Goal to become a **Full Stack Developer**
 
-- 💬 Ask me about **Java, Spring, MERN, HTML, CSS, JS**
+- 💬 Ask me about **Java, Spring, MERN, HTML, CSS, JS, React.js**
 
 - 📫 How to reach me **umbarerohit15@gmail.com**
 
