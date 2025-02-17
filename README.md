@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Java, Spring, MERN, HTML, CSS, JS**
 
-- 📫 How to reach me **umbarerohit000@gmail.com**
+- 📫 How to reach me **umbarerohit15@gmail.com**
 
 - 👀 Take a look at <a href="https://rohitumbareportfolio.vercel.app/" target="_blank">My Portfolio</a></li>
 
